@@ -5,3 +5,7 @@ Added new line
 Updating File2
 Updated File2
 New line for second commit
+Line for Conflict
+-----------------------------------
+Conflict Resolution Again
+-----------------------------------
