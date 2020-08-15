@@ -9,3 +9,5 @@ Line for Conflict
 -----------------------------------
 Conflict Resolution Again
 -----------------------------------
+Line for Conflict 2
+
